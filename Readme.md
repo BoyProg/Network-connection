@@ -5,4 +5,7 @@
 - 🚀 Internet speed testing
 - 📊 Network visualization (requires matplotlib)
 - 💾 Save results to text/CSV files
-- 🎨 Colorful console interface
+- 🎨 Colorful console 
+
+## Install all packages
+- pip install pyfiglet colorama speedtest-cli matplotlib
